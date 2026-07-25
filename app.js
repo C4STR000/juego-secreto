@@ -3,4 +3,4 @@ let intentos = 0;
 let listaNumerosSorteados = [];
 let numeroMaximo = 50;
 
-hola
+hello
